@@ -6,9 +6,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/ipfs/go-ipfs-api"
-
 	u "github.com/ipfs/go-ipfs-util"
+	"github.com/pengisgood/go-ipfs-api"
 )
 
 var sh *shell.Shell
